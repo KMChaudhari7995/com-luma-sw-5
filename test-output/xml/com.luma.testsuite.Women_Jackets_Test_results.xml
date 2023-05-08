@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="smoke test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.044">
+  <properties />
+  
+  
+            <testcase name="verifyTheSortByPriceFilter" time="4.044" classname="com.luma.testsuite.Women_Jackets_Test" />
+      
+</testsuite>
